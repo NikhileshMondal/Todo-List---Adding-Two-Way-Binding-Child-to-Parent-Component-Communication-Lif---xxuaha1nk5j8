@@ -9,8 +9,13 @@ button{
     text-align: center;
     justify-content: center;
     align-items: center;
+    margin-left: 20px;
 }
 
 .bg-pink{
 	background-color:pink;
+}
+.ol{
+    display: flex;
+    /* gap: 40px; */
 }
